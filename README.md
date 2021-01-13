@@ -19,3 +19,6 @@
 
  ## Install (build yourself)
 
+## Plans
+- Option toggle between creating converted file next to selected file or converted file in clipboard
+
