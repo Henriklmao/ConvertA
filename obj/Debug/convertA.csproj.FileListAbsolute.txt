@@ -1,0 +1,9 @@
+A:\Programmieren\convertA\bin\Debug\convertA.exe.config
+A:\Programmieren\convertA\bin\Debug\convertA.exe
+A:\Programmieren\convertA\bin\Debug\convertA.pdb
+A:\Programmieren\convertA\obj\Debug\convertA.csprojAssemblyReference.cache
+A:\Programmieren\convertA\obj\Debug\convertA.Properties.Resources.resources
+A:\Programmieren\convertA\obj\Debug\convertA.csproj.GenerateResource.cache
+A:\Programmieren\convertA\obj\Debug\convertA.csproj.CoreCompileInputs.cache
+A:\Programmieren\convertA\obj\Debug\convertA.exe
+A:\Programmieren\convertA\obj\Debug\convertA.pdb
